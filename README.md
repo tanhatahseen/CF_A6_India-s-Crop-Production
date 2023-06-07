@@ -11,3 +11,5 @@ Kaggle Link: https://www.kaggle.com/datasets/nikhilmahajan29/crop-production-sta
 The original source of this dataset is the Indian government's Area Production Statistics (APS) database. The APS is maintained by the Ministry of Agriculture and Farmers Welfare and provides detailed data on crop production, yield, and area under cultivation across different states and districts in India.
 
 Link to the source: https://aps.dac.gov.in/APY/Public_Report1.aspx
+
+Link to project dashboard: https://public.tableau.com/views/CropProductionStatisticsinIndia/IndiasCropProductionAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
